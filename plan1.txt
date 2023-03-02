@@ -4,5 +4,7 @@ MY PLAN
   + Sub Plan 2
   
  - Plan 2
+  + Sub Plan 1
+  
  - Plan 3
  - Plan 4
