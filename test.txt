@@ -1,6 +1,5 @@
 This is my goals:
   - Activity 1
   - Activity 2
-  - Activity 3
   - Activity 4
   - Activity 5
